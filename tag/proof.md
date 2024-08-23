@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: "persistent"
+tag: "proof"
 robots: noindex
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: "bitwise"
+tag: "shortest-path"
 robots: noindex
 ---

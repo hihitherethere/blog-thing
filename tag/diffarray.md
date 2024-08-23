@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: "hashing"
+tag: "diffarray"
 robots: noindex
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: "cses"
+tag: "bounds"
 robots: noindex
 ---
