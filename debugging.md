@@ -12,3 +12,4 @@ title: "Debugging"
   * Reading floats is super slow
   * Overflow/floats make code slow
 * Binary search slow point
+* Use unordered_map instead of map
