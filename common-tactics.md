@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Strategy"
+title: "Common Tactics"
 ---
 
 ### how to better faster
