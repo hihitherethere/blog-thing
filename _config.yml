@@ -22,8 +22,8 @@ title: hihitherethere's blog
 email: grantho701@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   how to better faster
-baseurl: "https://hihitherethere.github.io/blog-thing/" # the subpath of your site, e.g. /blog
-url: "https://hihitherethere.github.io/blog-thing/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog-thing" # the subpath of your site, e.g. /blog
+url: "https://hihitherethere.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  hihitherethere
 
