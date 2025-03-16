@@ -5,6 +5,11 @@ title: "Debugging"
 
 ### Debugging pains
 
+#### Dying
+* Think about cleaner impl
+  * Patterns
+  * Reusing code
+
 #### TLE
 * Big constants
   * Replace vector<int> with pair<int, int>
